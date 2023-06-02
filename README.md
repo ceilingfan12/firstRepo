@@ -4,4 +4,4 @@
 Tyler Edmonds
 
 # What does it do?
-This code runs a bomb defusing game on a Circuit Playground Express
+This is just my first repo and doesn't hold any real significance
