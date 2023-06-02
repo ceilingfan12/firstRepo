@@ -1,6 +1,6 @@
 # firstRepo
 
-# author
+# Author
 Tyler Edmonds
 
 # What does it do?
