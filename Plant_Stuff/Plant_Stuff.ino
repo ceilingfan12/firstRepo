@@ -218,3 +218,7 @@ void buttonPressed(){
 void switchMoved(){
   switchFlag = 1;
 }
+
+void goop(){
+  int yay;
+}
